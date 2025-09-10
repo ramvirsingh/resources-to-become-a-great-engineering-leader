@@ -187,6 +187,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [Hungry Minds 🍔🧠](https://hungryminds.dev) by Alexandre Zajac
 - [Maximiliano Contieri - Software Design](https://maximilianocontieri.com/newsletter) by Maximiliano Contieri
 - [Path to Staff](https://pathtostaff.substack.com/) by Sidwyn Koh
+- [Marko Denic Tech](https://markodenic.tech) by Marko Denic
 
 **People to follow on LinkedIn**
 
@@ -215,6 +216,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [Sam Williams](https://www.linkedin.com/in/sam-complete-coding/)
 - [Maximiliano Contieri](https://www.linkedin.com/in/mcsee/)
 - [Sidwyn Koh](https://www.linkedin.com/in/sidwyn/)
+- [Marko Denic](https://www.linkedin.com/in/denicmarko/)
 
 ## Become product-minded and business-oriented
 
