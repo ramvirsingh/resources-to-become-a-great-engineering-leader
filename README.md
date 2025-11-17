@@ -222,7 +222,7 @@ This will ensure you are spending your time on the most impactful things first!
 - [Software Engineering Team Structure That Works](https://newsletter.eng-leadership.com/p/software-engineering-team-structure)
 - [Engineering Org Structure That Works](https://newsletter.eng-leadership.com/p/engineering-org-structure-that-works)
 - [How Teaching Made Me a Better Engineer and Manager](https://newsletter.eng-leadership.com/p/how-teaching-made-me-a-better-engineer)
-- [From Tech Lead to Team Lead](https://newsletter.eng-leadership.com/p/how-teaching-made-me-a-better-engineer)
+- [From Tech Lead to Team Lead](https://newsletter.eng-leadership.com/p/from-tech-lead-to-team-lead)
 - [How I Organized My Time as a Full-Time CTO](https://newsletter.eng-leadership.com/p/how-i-organized-my-time-as-a-full)
 - [How to Create a Great Engineering Organization Where People Can Thrive](https://newsletter.eng-leadership.com/p/how-to-create-a-great-engineering)
 - [How to Use Engineering Metrics for the Success of Engineers and Teams](https://newsletter.eng-leadership.com/p/how-to-use-engineering-metrics-for)
